@@ -9,4 +9,4 @@ Para crear una cuenta en Github, hay que ingresar a la página web de [Github](h
 
 Después, en la página principal le debes dar click al botón con el signo `+`, lo que mostrará una opción llamada `New repository`. Allí, hay que crear un repositorio con las opciones que se requieran para el proyecto. Puedes elegir su nombre, su lenguaje, así como si es público o privado.
 
-![Github Home](vínculo)
+![Github Home](images\msedge_e09YTG2mn3.png)
