@@ -18,7 +18,7 @@ En el momento en que se cambie la configuración, se debe corroborar utilizando 
 
 Cuando ya se tengan las configuraciones correctas, se debe iniciar el repositorio con Git. Este repositorio será un directorio que escoja el usuario, por lo que si aún no existe, se debe crear con el comando `mkdir`. Cuando el directorio ya esté disponible, hay que entrar en él y escribir el comando `git init` para iniciar ese directorio como un repositorio.
 
-Para verificar que el repositorio se haya iniciado correctamente, se puede utilizar el comando `git status`para conocer el estado del respositorio, apenas se cree un repositorio, la respuesta de este comando se debe ver así:
+Para verificar que el repositorio se haya iniciado correctamente, se puede utilizar el comando `git status` para conocer el estado del respositorio, apenas se cree un repositorio, la respuesta de este comando se debe ver así:
 
 ```bash
 $ git status
