@@ -3,7 +3,7 @@
 # Bitácora
 
 Nombre del studiante: Santiago Ríos Duque
-e
+
 Id.: 000557626
 
 ## Descripción del proyecto
